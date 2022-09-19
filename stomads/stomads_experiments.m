@@ -97,8 +97,8 @@ for ind_sigma = 3% :8     % Indices in sigmavals (above) for the standard deviat
         stomads_option.HistoryFile = 1;
         stomads_option.MaxFuncEval = 100000;
         stomads_option.SampleSize = 5;
-        stomads_option.SolutionFile = 1;
-        stomads_option.StatsFile = 1;
+        stomads_option.SolutionFile = 0;
+        stomads_option.StatsFile = 0;
         stomads_option.UsePreviousSamples = 1;
         
         %% Defining bounds on the variables
