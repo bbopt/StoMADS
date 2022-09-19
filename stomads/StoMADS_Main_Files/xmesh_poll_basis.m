@@ -1,7 +1,7 @@
 % This function generates a basis used to construct positive spanning sets
 % in the xmesh case, i.e., when stomads_option.MeshType = 1;
 % The construction strategies can be found in the 'Derivative-free and Blackbox optimization'
-% book by C. Audet and W. Hare (see Chapter 8) & the paper 
+% book by C. Audet and W. Hare (see Chapter 8) & the paper
 % https://doi.org/10.1007/s11081-015-9283-0
 
 %%

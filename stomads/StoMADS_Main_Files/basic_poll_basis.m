@@ -10,7 +10,6 @@
 
 %%
 
-
 function z = basic_poll_basis(mesh_size, poll_size, probspecs)
 format long g;
 dim = probspecs.Dimension;

@@ -99,7 +99,6 @@ for i = 1:max_iter
     %% Search
     % (Optional, no strategies proposed yet. In case you propose one, please make sure
     % the trial points are always rounded to the mesh)
-    
     % Search strategies may include, random model search (possibly in random subspaces
     % (see e.g., https://arxiv.org/abs/2207.06452)),
     % stochastic Nelder-Mead search (see https://doi.org/10.1007/s10589-018-0016-0 and

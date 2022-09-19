@@ -12,7 +12,7 @@
 % and then 'txt_files_generator.m'.
 
 % For details about 'stomads_option' or for other options, see 'stomads_default_options.m'
-% in the 'StoMADS_Main_Files' folder
+% in the 'StoMADS_Main_Files' folder.
 
 % See the 'Remarks and recommendations' section in 'stomads_default_options.m'
 % Note in particular that the algorithm uses random orthogonal polling
@@ -38,7 +38,7 @@ stomads_option.DisplayOutputs = 1;
 stomads_option.DisplaySolution = 1;
 stomads_option.FixSeed = 0;
 stomads_option.HistoryFile = 1;           % See comments above on output files
-stomads_option.MaxFuncEval = 10000;
+stomads_option.MaxFuncEval = 3000;
 stomads_option.SampleSize = 2;            % (Very small value provided here!!)
 stomads_option.SolutionFile = 1;
 stomads_option.StatsFile = 1;
