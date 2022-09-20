@@ -8,7 +8,7 @@ of decision variables.
 ## Prerequisites
 
 * StoMADS is implemented using Matlab R2021a.
-* To use the 40 problems from the YATSOp repository, email poptus@mcs.anl.gov or see [link](https://github.com/POptUS/YATSOp) if it is available (more details below).
+* To use the 40 problems from the YATSOp repository, email poptus@mcs.anl.gov (Mathematics and Computer Science division of Argonne National Laboratory, USA) or see [link](https://github.com/POptUS/YATSOp) if it is available (more details below).
 
 ## Installation of StoMADS
 
