@@ -17,7 +17,7 @@
 % smooth_funct_value] (for the history file);
 % fEval_Stats = [#Funct_eval, x, noisy_value, smooth_funct_value] (for the stats file)
 
-% When using stomads_experiments.m
+% When using stomads_applications.m
 % fEval_History = a matrix with rows [#Funct_eval, noisy_value]
 % fEval_Stats = [#Funct_eval, x, noisy_value]
 
